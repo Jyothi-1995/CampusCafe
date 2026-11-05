@@ -1,0 +1,112 @@
+PS C:\Users\j.dileep\air-tribe\BackendJava\Module4_CampusCafe> javac Main.java
+PS C:\Users\j.dileep\air-tribe\BackendJava\Module4_CampusCafe> java Main
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: Tea
+Price: 15
+Quantity: 100
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: Coffee
+Price: 20
+Quantity: 50
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+1. Tea | Rs 15.0 | qty 100
+2. Coffee | Rs 20.0 | qty 50
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 3
+Total stock value: Rs 2500.0
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 4
+Average price: Rs 17.5
+Average price (rounded down): Rs 17
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 5
+Product number: 1
+Quantity to add: 50
+Updated quantity of Tea: 150
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product number: 2
+Duplicated product: Coffee (copy)
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product number: 5
+Error: Product number must be between 1 and 3
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 0
+Goodbye!
+Products created in total: 3
